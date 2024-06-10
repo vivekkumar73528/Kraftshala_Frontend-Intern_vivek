@@ -1,4 +1,5 @@
 WEATHER APPLICATION
+
 This is a weather application built with HTML, CSS, JavaScript, and the OpenWeatherAPI. It allows users to check the current weather conditions of any location.
 
 Features
